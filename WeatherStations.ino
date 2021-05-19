@@ -41,12 +41,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "7EczW_hzkni5bQAVWOAhOxSFk5aQBern";
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxx";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Madejuca";
-char pass[] = "jujuba1918";
+char ssid[] = "xxxxxxxx";
+char pass[] = "xxxxxxxx";
 DHTesp dht;
 #define DHTPIN 16     // What digital pin we're connected to
 
